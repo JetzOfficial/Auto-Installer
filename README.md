@@ -1,8 +1,7 @@
 # Theme
-JANGAN DIJUAL BELAKAN YE BWANG !!!
-BUTUH LICENSE/PW CHAT TELE GUA
->> t.me/fadhost <<
+MAU BELI TOKENNYA??
+>> t.me/JetzOffc <<
 
 Comand Run Install Thema
 
-bash <(curl https://raw.githubusercontent.com/gitfdil1248/Test/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/JetzOfficial/Auto-Installer/main/install.sh)
