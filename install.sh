@@ -490,7 +490,7 @@ EOF
 
   echo -e "                                                       "
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
-  echo -e "${GREEN}[+]                  AUTO INSTALL SUKSE             [+]${NC}"
+  echo -e "${GREEN}[+]                  AUTO INSTALL SUKSES             [+]${NC}"
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   sleep 2
