@@ -12,18 +12,18 @@ display_welcome() {
   echo -e ""
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
-  echo -e "${WHITE}[+]                AUTO INSTALLER THEMA            [+]${NC}"
-  echo -e "${WHITE}[+]                  © JetzOfficial                [+]${NC}"
+  echo -e "${WHITE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
+  echo -e "${WHITE}[+]                  © JetzOfficial                 [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e ""
-  echo -e "script ini di buat untuk mempermudah penginstalasian thema pterodactyle,"
+  echo -e "script ini di buat untuk mempermudah penginstalasian thema pterodactyl,"
   echo -e "dilarang keras untuk menyebar secara gratis."
   echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
   echo -e "t.me/JetzOffc"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "Jetz Official"
+  echo -e "© Jetz Official"
   sleep 4
   clear
 }
