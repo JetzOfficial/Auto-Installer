@@ -21,7 +21,7 @@ display_welcome() {
   echo -e "dilarang keras untuk menyebar secara gratis."
   echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "t.me/JetzOffc"
+  echo -e "© JetzOffc"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
   echo -e "© Jetz Official"
   sleep 4
